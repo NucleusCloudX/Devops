@@ -1,0 +1,33 @@
+Web Services & APIs
+🖥️ 80 - HTTP
+🖥️ 443 - HTTPS
+
+ SSH & Remote Access
+🖥️ 22 - SSH
+🖥️ 3389 - RDP (Windows Remote Desktop)
+
+Databases
+🖥️ 3306 - MySQL/MariaDB
+🖥️ 5432 - PostgreSQL
+🖥️ 1433 - MSSQL
+🖥️ 27017 - MongoDB
+
+ Containerization & Orchestration
+🖥️ 2376 - Docker Daemon Secure
+🖥️ 6443 - Kubernetes API Server
+
+ Messaging & Queueing
+🖥️5672 - RabbitMQ
+🖥️ 9092 - Kafka
+
+ CI/CD & DevOps Tools
+🖥️ 8080 - Jenkins
+🖥️ 9000 - SonarQube
+🖥️ Monitoring & Logging
+🖥️ 9090 - Prometheus
+🖥️ 5601 - Kibana
+🖥️9200 - Elasticsearch
+
+ Email Services
+🖥️ 25 - SMTP
+🖥️ 465/587 - Secure SMTP
