@@ -5,8 +5,8 @@
 asking a user name and password in after runing script
 
 TOP
-
-echo "================ user creating ========================"
+green='\033[0,32m'
+echo "${green}================ user creating ========================"
 
 read -p "user name :" username
 read -p "user password :" password
